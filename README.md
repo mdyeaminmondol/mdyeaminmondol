@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mdyeaminmondol
 - 👀 I’m interested in Programing.
-- 🌱 I’m currently learning C.
+- 🌱 I’m currently learning C and Java.
 - 💞️ I’m looking to collaborate on E-Commerce and Services
 - 📫 How to reach me t.me/YeaminDIU
 - 😄 Pronouns: Yeamin
